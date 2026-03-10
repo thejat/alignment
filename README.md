@@ -6,7 +6,7 @@ Hands-on tutorials on aligning language models at inference time without modifyi
 
 ### Prompt Engineering
 
-Zero-shot, manual, and automatic prompt engineering.
+Zero-shot, few-shot, chain-of-thought, and automatic prompt engineering.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sonthenguyen/alignment/blob/main/prompt_engineering_for_training_free_alignment.ipynb)
 
