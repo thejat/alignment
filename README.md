@@ -8,8 +8,8 @@ Hands-on tutorials on aligning language models at inference time without modifyi
 
 Standard decoding strategies (greedy, beam search, temperature, top-k/top-p) and guided decoding with logits processors for hallucination prevention.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sonthenguyen/alignment/blob/main/guided_decoding_for_training-free_alignment.ipynb)
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/sonthenguyen/alignment/main/guided_decoding_for_training-free_alignment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sonthenguyen/alignment/blob/main/guided_decoding_for_training_free_alignment.ipynb)
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/sonthenguyen/alignment/main/guided_decoding_for_training_free_alignment.ipynb)
 
 ---
 
